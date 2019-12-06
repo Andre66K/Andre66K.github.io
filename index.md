@@ -33,3 +33,14 @@
 <p>
   <br>
 </p>
+
+<p><em>Data Science</em></p>
+<ul>
+  <li>The applications to sponsor jobs in the data science field spiked between 2011 and 2016; however, data science jobs represented only 0.1 percent of the total jobs sponsored. This indicates that data science is becoming more popular and it is a booming field, but it is also a relatively new field and the number of data scientist is still relatively low. It would have been interesting to see if the trend was confirmed in 2017 and 2018. Most likely it was.&nbsp;</li>
+  <li>The average salary of a data scientist is higher than the average salary of the total jobs sponsored.</li>
+  <li>The companies that sponsored the largest number of data science jobs are well-known, tech giants such as Microsoft, Uber, and Facebook.&nbsp;</li>
+  <li>Eleven cities out of the top 20 that sponsored the largest number of visas in data science are located in California. Unsurprisingly then, California is the state that sponsored most visas in the Data Science industry. Other states that sponsored quite a lot in the industry are New York, Washington, Illinois, and Texas.&nbsp;</li>
+</ul>
+<p>
+  <br>
+</p>
