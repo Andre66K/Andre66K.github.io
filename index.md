@@ -5,10 +5,16 @@
 <p style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">This project is a data mining analysis of the H1B visa applications that were submitted by employers located in the United States between 2011 and 2016. H1B visa is an employment-based, non-immigrant visa for temporary workers in the United States. For this visa, an employer must offer the applicant a job and apply for the H1B visa petiton with the US Immigration Department. Once the applicant has been sponsored by the company, the company needs to file the Labor Condition Application (LCA), which needs to be approved by United States Citizenship and Immigration Services (USCIS). If the USCIS approves it, the applicant needs to go through a lottery, and if he/she passes the lottery, the USCIS needs to review the application before approval. Once the USCIS approves the application, the applicant gets the visa.This dataset contains all the H1B Visa application submitted through the LCA to the USCIS between 2011 and 2016. If the case status says "Certified", it means that the applicant was approved to go through the lottery. However, this does not mean that the applicant eventually got the visa, and the dataset does not contain such information.</p>
 <p>The dataset was retrieved from Kaggle in November 2019, and it was originally scraped from the webiste of the U.S. Office of Foreign Labor by a Kaggle user. The dataset contains over 3 million rows and 11 incolumns, which include the job title, the name of the company that sponsored the visa, and its geographic coordinates. The dataset is rather thorough and does not have many missing values. However, it would have been more interesting if it included the data from 2017 and 2018 as well, as it would have been interesting to asses the impact of the Trump administration on the visa application process</p>
 
-<img width="577" alt="wordcloud" src="https://user-images.githubusercontent.com/54607208/70272123-ba27bb80-1775-11ea-9da7-6af997de3250.png">
-
 <p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; text-align: left; margin-bottom: 10px !important;"><strong>Preliminary Analysis</strong></p>
 <p>Firstly, we display some word clouds to show the most common words for the following columns: Job_Title, Worksite, State, and Employer_Name.&nbsp;</p>
+
+<img width="577" alt="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70393141-25ab9c00-19b5-11ea-93f0-e3bddf1fa8c1.PNG">
+
+<img width="492" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
+
+
+
+
 <p>Then we will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
 <p><strong>Part 1: Most Sponsored Jobs</strong></p>
 <p>This section will examine what were the most sponsored jobs between 2011 and 2016.&nbsp;</p>
