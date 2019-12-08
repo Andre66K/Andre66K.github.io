@@ -15,7 +15,9 @@
 <p>Then I will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
 
 <img width="293" alt="casestatus" src="https://user-images.githubusercontent.com/54607208/70393193-bbdfc200-19b5-11ea-9d2f-66f68b83d38e.PNG">
+<p>
   <br>
+</p>
 <p><strong>Part 1: Most Sponsored Jobs</strong></p>
 <p>This section will examine what were the most sponsored jobs between 2011 and 2016.&nbsp;</p>
 
