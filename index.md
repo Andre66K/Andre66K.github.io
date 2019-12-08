@@ -23,7 +23,7 @@
 <p><strong>Part 1: Most Sponsored Jobs</strong></p>
 <p>This section will examine what were the most sponsored jobs between 2011 and 2016.&nbsp;</p>
 
-<img width="500" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70393227-ea5d9d00-19b5-11ea-9312-3701c99d12b1.PNG">
+<img width="500" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70393538-1fb7ba00-19b9-11ea-8880-4232336fa79b.PNG">
 
 <p><strong>Part 2: Salary Distribution</strong></p>
 <p>This section examines the salary distribution of the jobs sponsored. The following graph is an histogram that displays the salary distribution of all the jobs sponsored between 2011 and 2016:</p>
@@ -32,7 +32,7 @@
 
 <p>The next graph outlines the salary distribution of the jobs sponsored per year:&nbsp;</p>
 
-<img width="500" alt="wagesoveryeargen" src="https://user-images.githubusercontent.com/54607208/70393246-12e59700-19b6-11ea-8bb3-c0dd42a73a09.PNG">
+<img width="500" alt="wagesoveryeargen" src="https://user-images.githubusercontent.com/54607208/70393550-31995d00-19b9-11ea-8569-9a2c7634fe8a.PNG">
 
 <p><strong>Part 3: Companies that Sponsored the Largest Number of Visas</strong></p>
 <p>The following are the top 20 companies that sponsored the largest number of visas over the time period analyzed:&nbsp;</p>
@@ -45,9 +45,14 @@
 
 <p>Next, I plotted several maps of the U.S. to better understand where are the hubs where most of the visa gets sponsored:&nbsp;</p>
 
-<img width="500" alt="cities" src="https://user-images.githubusercontent.com/54607208/70393360-f564fd00-19b6-11ea-8b3e-7c7d47d71322.png">
+<img width="500" alt="map" src="https://user-images.githubusercontent.com/54607208/70393360-f564fd00-19b6-11ea-8b3e-7c7d47d71322.png">
+
+<img width="500" alt="map1" src="https://user-images.githubusercontent.com/54607208/70393408-55f43a00-19b7-11ea-9328-6822ca9ef277.png">
 
 <p>Finally, I created a chloropleth map that displays the number of visas sponsored by state:&nbsp;</p>
+
+<img width="500" alt="chlor1" src="https://user-images.githubusercontent.com/54607208/70393564-5261b280-19b9-11ea-915b-e4c19c734a15.PNG">
+
 <p><strong>Part 5: Analysis of the Data Science Industry</strong></p>
 <p>In this last section of the project, I will conduct a similar analysis to the one performed so far but I will focus on the data science inudstry only. As an foreigner who is getting is master in Data Science in the United States, and who is potentially interested in getting an H1B visa in the future, I am interesting in finding out as much as I can about H1B visas applications in Data Science.</p>
 <p>First of all, I take a look at how the number of Data Science applications changed over time:</p>
