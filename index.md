@@ -85,7 +85,7 @@
 
 <p>And I also created a chloropleth to see what are the U.S. states that sponsored the largest amount of visas in Data Science between 2011 and 2016.&nbsp;</p>
 
-<img width="550" alt="chloroDS" src="<img width="562" alt="Chloropleth Data Science Visas" src="https://user-images.githubusercontent.com/54607208/70397758-f3189800-19e2-11ea-8380-0757192dc46e.PNG">
+<img width="550" alt="Chloropleth Data Science Visas" src="https://user-images.githubusercontent.com/54607208/70397776-1fccaf80-19e3-11ea-8b6c-5a7e64feb7d7.PNG">
 
 <p><strong>Conclusion</strong></p>
 <p>
