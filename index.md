@@ -91,7 +91,19 @@
 <p>
   <br>
 </p>
-
+<p><em>Complete Dataset</em></p>
+<ul>
+  <li>The vast majority of the H1B Visa application were approved. Only approximately 3% of the application was denied.&nbsp;</li>
+  <li style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">The most sponsored jobs between 2011 and 2016 were jobs related to computers, software and technology in general. Finance-related jobs such as accountants and financial analysts were also in the top 20 most sponsored jobs.&nbsp;</li>
+  <li style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">The wage distribution for all jobs between 2011 and 2016 is right skewed. When looking at the wage distribution for each year, we can see that they are right skewed as well and overall rather similar to each other, although there was a slow, yet steady increase of the first quartile, median, and third quartile CAMBIA</li>
+  <li style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">The two companies that sponsored the largest number of visas are Infosys and Tata Consultancy Services, two Indian multinational consulting firms. Overall, consulting firms are the ones that sponsored the largest number of visas, followed by IT and tech giants such as Microsoft and Amazon.&nbsp;</li>
+  <li style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">Eight cities among the top 20 cities that sponsored the largest number of visas are located in California. However, New York City is the city with the highest number of applications. Big tech and business hubs such as Seattle, Houston, and Atlanta are also among the top 20 cities.&nbsp;</li>
+  <li style="margin-bottom: 10px !important; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">California, New York, and Texas are the states where the majority of the visas were sponsored. Additionally, a significant number of applications were filed in Illinois, New Jersey, and Washington state.</li>
+</ul>
+<p>&nbsp;</p>
+<p>
+  <br>
+</p>
 <p><em>Data Science</em></p>
 <ul>
   <li>The applications to sponsor jobs in the data science field spiked between 2011 and 2016; however, data science jobs represented only 0.1 percent of the total jobs sponsored. This indicates that data science is becoming more popular and it is a booming field, but it is also a relatively new field and the number of data scientist is still relatively low. It would have been interesting to see if the trend was confirmed in 2017 and 2018. Most likely it was.&nbsp;</li>
@@ -102,3 +114,9 @@
 <p>
   <br>
 </p>
+<p><em>2017-2018 Trends</em></p>
+<p>As stated before, one limitation of this dataset is that it does not contain the data for 2017 and 2018. However, I doubt that the major trends we saw in this analysis changed. The most sponsored jobs are most likely the ones related to software development, computers and consulting, and the companies that sponsor the majority of the visas are probably multinational companies operating in consulting, IT, and technology in general. Location-wise, the situation has probably not changed either. Cities like San Francisco, Seattle, and New York City are still major business and technology hubs where companies keep sponsoring a significant amount of visas every year. The trends in the Data Science industry most likely remained the same through 2017 and 2018. The only thing that might have changed significantly is the number of the application for Data Science, which I expect to have grown tremendously in the last two years.&nbsp;</p>
+<p>
+  <br>
+</p>
+<p>Overall, the only major difference between the applications filed between 2011 and 2016 and the ones filed in 2017-2018 might be the denial rate. Indeed - according to several media outlets - the Trump Administration reportedly has been "aggressively" denying applications for H1B visas since Trump took office in January 2017.</p>
