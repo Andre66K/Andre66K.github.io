@@ -10,11 +10,7 @@
 
 <img width="400" alt="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70393141-25ab9c00-19b5-11ea-93f0-e3bddf1fa8c1.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
 
-<img width="500" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
-
-<img width="500" alt="wordcloud3" src="https://user-images.githubusercontent.com/54607208/70393181-95ba2200-19b5-11ea-97ca-555a9b469b0d.PNG">
-
-<img width="500" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70393187-a4a0d480-19b5-11ea-8e6e-ba548aa4ad83.PNG">
+<img width="400" alt="wordcloud3" src="https://user-images.githubusercontent.com/54607208/70393181-95ba2200-19b5-11ea-97ca-555a9b469b0d.PNG"> <img width="400" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70393187-a4a0d480-19b5-11ea-8e6e-ba548aa4ad83.PNG">
 
 <p>Then I will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
 
