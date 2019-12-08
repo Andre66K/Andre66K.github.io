@@ -19,7 +19,7 @@
 <p><strong>Part 1: Most Sponsored Jobs</strong></p>
 <p>This section will examine what were the most sponsored jobs between 2011 and 2016.&nbsp;</p>
 
-<img width="500" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70393538-1fb7ba00-19b9-11ea-8880-4232336fa79b.PNG">
+<img width="570" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70393538-1fb7ba00-19b9-11ea-8880-4232336fa79b.PNG">
 
 <p><strong>Part 2: Salary Distribution</strong></p>
 <p>This section examines the salary distribution of the jobs sponsored. The following graph is an histogram that displays the salary distribution of all the jobs sponsored between 2011 and 2016:</p>
@@ -33,11 +33,11 @@
 <p><strong>Part 3: Companies that Sponsored the Largest Number of Visas</strong></p>
 <p>The following are the top 20 companies that sponsored the largest number of visas over the time period analyzed:&nbsp;</p>
 
-<img width="500" alt="companies" src="https://user-images.githubusercontent.com/54607208/70393264-2b55b180-19b6-11ea-83bb-6145d16446a9.PNG">
+<img width="570" alt="companies" src="https://user-images.githubusercontent.com/54607208/70393264-2b55b180-19b6-11ea-83bb-6145d16446a9.PNG">
 
 <p><strong>Part 4: Sponsored Visas by City and State</strong></p>This section examines what are the cities and the states where most visas get sponsored. Firstly, I was interested to see in what cities the companies that sponsored the most are located:&nbsp;
 
-<img width="500" alt="cities" src="https://user-images.githubusercontent.com/54607208/70393284-4c1e0700-19b6-11ea-995e-623f4cb8854e.PNG">
+<img width="570" alt="cities" src="https://user-images.githubusercontent.com/54607208/70393284-4c1e0700-19b6-11ea-995e-623f4cb8854e.PNG">
 
 <p>Next, I plotted several maps of the U.S. to better understand where are the hubs where most of the visa gets sponsored:&nbsp;</p>
 
@@ -65,11 +65,11 @@
 
 <p>Moreover, it would be interesting to check what are the companies that sponsored the largest amount of visas in Data Science:</p>
 
-<img width="500" alt="companiesDS" src="https://user-images.githubusercontent.com/54607208/70395422-7b3f7300-19cc-11ea-94e4-0cc46914c88f.PNG">
+<img width="570" alt="companiesDS" src="https://user-images.githubusercontent.com/54607208/70395422-7b3f7300-19cc-11ea-94e4-0cc46914c88f.PNG">
 
 <p>And the cities that are considered the hotspots for Data Science:&nbsp;</p>
 
-<img width="500" alt="citiesDS" src="https://user-images.githubusercontent.com/54607208/70395434-8eead980-19cc-11ea-829e-3b50be7cd07c.PNG">
+<img width="570" alt="citiesDS" src="https://user-images.githubusercontent.com/54607208/70395434-8eead980-19cc-11ea-829e-3b50be7cd07c.PNG">
 
 <p>Finally, I will plot a couple of maps to display where ths hot spots for Data Science are:&nbsp;</p>
 
@@ -79,7 +79,7 @@
 
 <p>And I also created a chloropleth to see what are the U.S. states that sponsored the largest amount of visas in Data Science between 2011 and 2016.&nbsp;</p>
 
-<img width="500" alt="chloroDS" src="https://user-images.githubusercontent.com/54607208/70395470-f2750700-19cc-11ea-9fa7-91c0dd1ae523.PNG">
+<img width="550" alt="chloroDS" src="https://user-images.githubusercontent.com/54607208/70395470-f2750700-19cc-11ea-9fa7-91c0dd1ae523.PNG">
 
 <p><strong>Conclusion</strong></p>
 <p>
