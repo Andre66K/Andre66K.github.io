@@ -6,9 +6,9 @@
 <p>The dataset was retrieved from Kaggle in November 2019, and it was originally scraped from the webiste of the U.S. Office of Foreign Labor by a Kaggle user. The dataset contains over 3 million rows and 11 incolumns, which include the job title, the name of the company that sponsored the visa, and its geographic coordinates. The dataset is rather thorough and does not have many missing values. However, it would have been more interesting if it included the data from 2017 and 2018 as well, as it would have been interesting to asses the impact of the Trump administration on the visa application process</p>
 
 <p style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; text-align: left; margin-bottom: 10px !important;"><strong>Preliminary Analysis</strong></p>
-<p>Firstly, we display some word clouds to show the most common words for the following columns: Job_Title, Worksite, State, and Employer_Name.&nbsp;</p>
+<p>Firstly, I will display some word clouds to show the most common words for the following columns: Job_Title, Worksite, State, and Employer_Name.&nbsp;</p>
 
-<img width="500" alt="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70393141-25ab9c00-19b5-11ea-93f0-e3bddf1fa8c1.PNG">
+<img width="400" alt="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70393141-25ab9c00-19b5-11ea-93f0-e3bddf1fa8c1.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
 
 <img width="500" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
 
@@ -16,7 +16,7 @@
 
 <img width="500" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70393187-a4a0d480-19b5-11ea-8e6e-ba548aa4ad83.PNG">
 
-<p>Then we will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
+<p>Then I will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
 
 <img width="293" alt="casestatus" src="https://user-images.githubusercontent.com/54607208/70393193-bbdfc200-19b5-11ea-9d2f-66f68b83d38e.PNG">
 
@@ -51,17 +51,40 @@
 
 <p>Finally, I created a chloropleth map that displays the number of visas sponsored by state:&nbsp;</p>
 
-<img width="500" alt="chlor1" src="https://user-images.githubusercontent.com/54607208/70393564-5261b280-19b9-11ea-915b-e4c19c734a15.PNG">
+<img width="550" alt="chlor1" src="https://user-images.githubusercontent.com/54607208/70393564-5261b280-19b9-11ea-915b-e4c19c734a15.PNG">
 
 <p><strong>Part 5: Analysis of the Data Science Industry</strong></p>
-<p>In this last section of the project, I will conduct a similar analysis to the one performed so far but I will focus on the data science inudstry only. As an foreigner who is getting is master in Data Science in the United States, and who is potentially interested in getting an H1B visa in the future, I am interesting in finding out as much as I can about H1B visas applications in Data Science.</p>
+<p>In this last section of the project, I will conduct a similar analysis to the one performed so far but I will focus on the data science inudstry only. As an foreigner who is getting is master in Data Science in the United States, and who is potentially interested in getting an H1B visa in the future, I am interested in finding out as much as I can about H1B visas applications in Data Science.</p>
 <p>First of all, I take a look at how the number of Data Science applications changed over time:</p>
-<p>Next, I'll take a look at the wage distribution for the data science industry between 2011 and 2016:</p>
+
+<img width="500" alt="numberDS" src="https://user-images.githubusercontent.com/54607208/70395387-1edc5380-19cc-11ea-9162-7133500ec210.PNG">
+
+<p>Next, I will take a look at the wage distribution for the data science industry between 2011 and 2016:</p>
+
+<img width="500" alt="wagesdsgen" src="https://user-images.githubusercontent.com/54607208/70395412-4af7d480-19cc-11ea-981a-6ec4c3eac255.PNG">
+
 <p>And then for each year:&nbsp;</p>
-<p>Moreover, it'd be interesting to check what are the companies that sponsored the largest amount of visas in Data Science:</p>
+
+<img width="500" alt="wagesyearDS" src="https://user-images.githubusercontent.com/54607208/70395416-61059500-19cc-11ea-8770-0039aab491b5.PNG">
+
+<p>Moreover, it would be interesting to check what are the companies that sponsored the largest amount of visas in Data Science:</p>
+
+<img width="500" alt="companiesDS" src="https://user-images.githubusercontent.com/54607208/70395422-7b3f7300-19cc-11ea-94e4-0cc46914c88f.PNG">
+
 <p>And the cities that are considered the hotspots for Data Science:&nbsp;</p>
-<p>Finally, I will plot a couple of maps to display where in the U.S. every single visa was sponsored:&nbsp;</p>
+
+<img width="500" alt="citiesDS" src="https://user-images.githubusercontent.com/54607208/70395434-8eead980-19cc-11ea-829e-3b50be7cd07c.PNG">
+
+<p>Finally, I will plot a couple of maps to display where ths hot spots for Data Science are:&nbsp;</p>
+
+<img width="500" alt="mapdotsds" src="https://user-images.githubusercontent.com/54607208/70395457-d1acb180-19cc-11ea-9456-fefd5f173886.PNG">
+
+<img width="500" alt="intensity2" src="https://user-images.githubusercontent.com/54607208/70395465-e2f5be00-19cc-11ea-84ba-a84b7e4afd66.PNG">
+
 <p>And I also created a chloropleth to see what are the U.S. states that sponsored the largest amount of visas in Data Science between 2011 and 2016.&nbsp;</p>
+
+<img width="500" alt="chloroDS" src="https://user-images.githubusercontent.com/54607208/70395470-f2750700-19cc-11ea-9fa7-91c0dd1ae523.PNG">
+
 <p><strong>Conclusion</strong></p>
 <p>
   <br>
