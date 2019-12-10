@@ -8,51 +8,51 @@
 
 <p>Firstly, I will display some word clouds to show the most common words for the following columns: Job_Title, Worksite, State, and Employer_Name.&nbsp;</p>
 
-<img width="400" alt="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70393141-25ab9c00-19b5-11ea-93f0-e3bddf1fa8c1.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70393165-5b508500-19b5-11ea-994d-1dd76b9b6a6c.PNG">
+<img width="400" alt="wordcloud1" src="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70570234-8085f480-1b69-11ea-923d-c286a6d4631c.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70570269-8f6ca700-1b69-11ea-9580-523593b2dba5.PNG">
 
-<img width="400" alt="wordcloud3" src="https://user-images.githubusercontent.com/54607208/70393181-95ba2200-19b5-11ea-97ca-555a9b469b0d.PNG"> <img width="400" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70393187-a4a0d480-19b5-11ea-8e6e-ba548aa4ad83.PNG">
+<img width="400" alt="wordcloud3" src="https://user-images.githubusercontent.com/54607208/70570310-a1e6e080-1b69-11ea-9f78-c48650382bd5.PNG"> <img width="400" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70570328-af03cf80-1b69-11ea-8607-0ae9e3205e48.PNG">
 
 <p>Then I will see how many applications got approved (certified), denied, or were withdrawn.&nbsp;</p>
 
-<img width="293" alt="casestatus" src="https://user-images.githubusercontent.com/54607208/70393193-bbdfc200-19b5-11ea-9d2f-66f68b83d38e.PNG">
+<img width="293" alt="casestatus" src="https://user-images.githubusercontent.com/54607208/70570363-c04cdc00-1b69-11ea-9c30-d36606bc836e.PNG">
 <p>
   <br>
 </p>
 <p><strong>Part 1: Most Sponsored Jobs</strong></p>
 <p>This section will examine what were the most sponsored jobs between 2011 and 2016.&nbsp;</p>
 
-<img width="570" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70393538-1fb7ba00-19b9-11ea-8880-4232336fa79b.PNG">
+<img width="570" alt="mostpopularjobs" src="https://user-images.githubusercontent.com/54607208/70570397-d0fd5200-1b69-11ea-93c1-ef082e371be8.PNG">
 
 
 <p><strong>Part 2: Salary Distribution</strong></p>
 <p>This section examines the salary distribution of the jobs sponsored. The following graph is an histogram that displays the salary distribution of all the jobs sponsored between 2011 and 2016:</p>
 
-<img width="500" alt="histwagesgen" src="https://user-images.githubusercontent.com/54607208/70393235-fe090380-19b5-11ea-9ab0-2c1d06f038a2.PNG">
+<img width="500" alt="histwagesgen" src="https://user-images.githubusercontent.com/54607208/70570515-0e61df80-1b6a-11ea-8022-491e3373d568.PNG">
 
 <p>The next graph outlines the salary distribution of the jobs sponsored per year:&nbsp;</p>
 
-<img width="500" alt="wagesoveryeargen" src="https://user-images.githubusercontent.com/54607208/70393550-31995d00-19b9-11ea-8569-9a2c7634fe8a.PNG">
+<img width="500" alt="wagesoveryeargen" src="https://user-images.githubusercontent.com/54607208/70570548-1b7ece80-1b6a-11ea-8baf-3de8d2fcfd8b.PNG">
 
 
 <p><strong>Part 3: Companies that Sponsored the Largest Number of Visas</strong></p>
 <p>The following are the top 20 companies that sponsored the largest number of visas over the time period analyzed:&nbsp;</p>
 
-<img width="570" alt="companies" src="https://user-images.githubusercontent.com/54607208/70393264-2b55b180-19b6-11ea-83bb-6145d16446a9.PNG">
+<img width="570" alt="companies" src="https://user-images.githubusercontent.com/54607208/70570575-29345400-1b6a-11ea-9459-837138fa329c.PNG">
 
 
 <p><strong>Part 4: Sponsored Visas by City and State</strong></p>This section examines what are the cities and the states where most visas get sponsored. Firstly, I was interested to see in what cities the companies that sponsored the most are located:&nbsp;
 
-<img width="570" alt="cities" src="https://user-images.githubusercontent.com/54607208/70393284-4c1e0700-19b6-11ea-995e-623f4cb8854e.PNG">
+<img width="570" alt="cities" src="https://user-images.githubusercontent.com/54607208/70570608-3cdfba80-1b6a-11ea-9f75-a217ec375deb.PNG">
 
 <p>Next, I plotted several maps of the U.S. to better understand where are the hubs where most of the visa gets sponsored:&nbsp;</p>
 
-<img width="500" alt="map" src="https://user-images.githubusercontent.com/54607208/70393360-f564fd00-19b6-11ea-8b3e-7c7d47d71322.png">
+<img width="500" alt="map" src="https://user-images.githubusercontent.com/54607208/70570647-4c5f0380-1b6a-11ea-9c64-89c26e0f93d6.PNG">
 
-<img width="500" alt="map1" src="https://user-images.githubusercontent.com/54607208/70393408-55f43a00-19b7-11ea-9328-6822ca9ef277.png">
+<img width="500" alt="map1" src="https://user-images.githubusercontent.com/54607208/70570677-584ac580-1b6a-11ea-98e5-4caac7d895e8.PNG">
 
 <p>Finally, I created a chloropleth map that displays the number of visas sponsored by state:&nbsp;</p>
 
-<img width="550" alt="chlor1" src="https://user-images.githubusercontent.com/54607208/70393564-5261b280-19b9-11ea-915b-e4c19c734a15.PNG">
+<img width="550" alt="chlor1" src="https://user-images.githubusercontent.com/54607208/70570706-6567b480-1b6a-11ea-8fb9-b274df7e8570.PNG">
 
 
 <p><strong>Part 5: Analysis of the Data Science Industry</strong></p>
