@@ -8,7 +8,7 @@
 
 <p>Firstly, I will display some word clouds to show the most common words for the following columns: Job_Title, Worksite, State, and Employer_Name.&nbsp;</p>
 
-<img width="400" alt="wordcloud1" src="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70570234-8085f480-1b69-11ea-923d-c286a6d4631c.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70570269-8f6ca700-1b69-11ea-9580-523593b2dba5.PNG">
+<img width="400" alt="wordcloud1" src="wordcloud1" src="https://user-images.githubusercontent.com/54607208/70571020-ffc7f800-1b6a-11ea-9014-2f56dd0329ac.PNG">  <img width="400" alt="wordcloud2" src="https://user-images.githubusercontent.com/54607208/70570269-8f6ca700-1b69-11ea-9580-523593b2dba5.PNG">
 
 <img width="400" alt="wordcloud3" src="https://user-images.githubusercontent.com/54607208/70570310-a1e6e080-1b69-11ea-9f78-c48650382bd5.PNG"> <img width="400" alt="wordcloud4" src="https://user-images.githubusercontent.com/54607208/70570328-af03cf80-1b69-11ea-8607-0ae9e3205e48.PNG">
 
