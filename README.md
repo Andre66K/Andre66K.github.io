@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Individual project using Python to analyze all the H1B visa applications submitted by companies based in the United States between 2011 and 2016. The dataset contains over 3 million rows and ten columns. The columns contain information on the visa applications, such as the type of job sponsored, the employer that sponsored the visa and the location where the employer is based. 
+This is an individual project using Python that analyzes the H1B visa applications submitted by companies based in the United States between 2011 and 2016. The dataset contains over 3 million rows and ten columns. The columns contain information on the visa applications, such as the type of job sponsored, the employer that sponsored the visa and the location where the employer is based. 
 
 ## Project's Aim 
 
