@@ -6,7 +6,7 @@ This is an individual project using Python that analyzes the H1B visa applicatio
 
 ## Project Description
 
-I performed this analysis for my Introduction to Data Mining class at The George Washington Univeristy. The requirement for the project was to perform data mining analysis on a complex dataset to find patterns and associations in order to draw meaningful conclusions and make predictions over time. I cleaned the data, conducted exploratory data analysis and created informative graphs and plot to gain and present inmportant information and inisghts on the dataset.
+I performed this analysis for my Introduction to Data Mining class at The George Washington Univeristy. The requirement for the project was to perform data mining analysis on a complex dataset to find patterns and associations in order to draw meaningful conclusions and make predictions over time. I cleaned the data, conducted exploratory data analysis and created informative graphs and plot to gain and present important information and inisghts on the dataset.
 
 ## Data Source
 
